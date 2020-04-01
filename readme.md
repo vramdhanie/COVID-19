@@ -29,3 +29,9 @@ In response to the COVID-19 pandemic, the Allen Institute for AI has partnered w
 Here a set of competitions related to COVID-19 data are listed. These may lead to interesting datasets
 
 [Kaggle Competitions](https://www.kaggle.com/covid19?utm_campaign=The+Batch&utm_source=hs_email&utm_medium=email&utm_content=85609380&_hsenc=p2ANqtz-8OA50tKwkEOHBC3zsW7wrNZYopKTlj_R3VHFjVGsYzPOpySF9l-xHMP4rhLOhgDATS3f170woy0-QgC7fsQt2jnIXo3A&_hsmi=85609380)
+
+## Our World In Data
+
+This article lists data sources used by Our World In Data.
+
+[Coronavirus Source Data](https://ourworldindata.org/coronavirus-source-data)
