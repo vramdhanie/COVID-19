@@ -35,3 +35,7 @@ Here a set of competitions related to COVID-19 data are listed. These may lead t
 This article lists data sources used by Our World In Data.
 
 [Coronavirus Source Data](https://ourworldindata.org/coronavirus-source-data)
+
+## John Hopkins University COVID-19 Data 
+
+This [repository](https://github.com/CSSEGISandData/COVID-19) has raw data files as well as links to WHO situational reports.
